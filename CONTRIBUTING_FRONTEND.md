@@ -20,7 +20,7 @@ This ensures coordination and prevents duplicated efforts.
 1. [🏁 Getting Started](#getting-started)
 2. [👆🏻 Choosing a Module](#choosing-a-module)
 3. [🗂️ Folder Structure](#folder-structure-main)
-4. [📙 Coding Standards](#coding-standards)
+4. [📙 Reading the Coding Standards](#coding-standards)
 5. [📝 Dependency Management](#dependency-management)
 6. [🧪 Testing (optional)](#testing)
 7. [📨 Submitting Your Contribution](#submitting-your-contribution)
